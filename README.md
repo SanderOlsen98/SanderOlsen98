@@ -1,14 +1,12 @@
 ### Hi there 👋
 
-# // If you ever need to contact me -> sanderlolsen@gmail.com
+#### // If you ever need to contact me -> sanderlolsen@gmail.com
 
 ## // About me
 
-# My name is Sander Lindberg Olsen, 24 years old living in Oslo. Currently working at Posten
+#### More info about me and my on-working projects and past projects can be viewed on my portfolio page:
 
-# More info about me and my on-working projects and past projects can be viewed on my portfolio page:
-
-## https://prismatic-zuccutto-9c193b.netlify.app/
+#### https://prismatic-zuccutto-9c193b.netlify.app/
 
 
 
