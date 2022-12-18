@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-## // If you ever need to contact me -> sanderlolsen@gmail.com
+# // If you ever need to contact me -> sanderlolsen@gmail.com
+
 
 <!--
 **SanderOlsen98/SanderOlsen98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
