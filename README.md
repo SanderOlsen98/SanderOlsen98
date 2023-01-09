@@ -6,7 +6,7 @@
 
 #### More info about me and my on-working projects and past projects can be viewed on my portfolio page:
 
-#### <-- devsanderolsen.com -->
+ **<-- devsanderolsen.com -->**
 
 
 
